@@ -1,6 +1,9 @@
 # Type ahead
 
-###### Purpose:
-   Display the results based on the search keywords entered
+   Project Title: # Type ahead
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/type-ahead/).
+Technology Stack: HTML, CSS, and Javascript
+
+Brief of the project: Display the results based on the search keywords entered
+
+#### Dear Students, Check out the live app [here](https://ram-brs.github.io/type-ahead/).
